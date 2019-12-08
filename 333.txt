@@ -1,4 +1,8 @@
 afsfa
 f11111
 saf
+<<<<<<< HEAD
 f1 change
+=======
+master changes
+>>>>>>> master
